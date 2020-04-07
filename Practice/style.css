@@ -2,12 +2,10 @@ body, html {
   height: 100%;
   margin: 0;
   font: 400 15px/1.8 "Lato", sans-serif;
-  color: #777;
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
-  opacity: 0.65;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,8 +37,8 @@ body, html {
 }
 
 .caption span.border {
-  background-color: #111;
-  color: #fff;
+  background-color: yellow;
+  color: black;
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
